@@ -17,7 +17,7 @@ console.log("");
 
 const Reff = "R18RH5R50";
 const LooP = (1000);
-const DelaY = (25000);
+const  DelaY  = ( 100000 );
 
 console.log("");
 console.log("");
