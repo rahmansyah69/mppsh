@@ -219,22 +219,7 @@ const genEmail = length =>
   });
 
 const domain = [
-  "imouto.pro",
-  "titaspaharpur1.cf",
-  "zleohkaqpt5.tk",
-  "atm-mi.tk",
-  "atm-mi.cf",
-  "storeclsrn.xyz",
-  "thefirstticket.com",
-  "sistewep.online",
-  "tol.ooo",
-  "myvaultsophia.com",
-  "prolagu.pro",
-  "mobaratopcinq.life",
-  "danns.cf",
-  "secencode.xyz",
-  "zwwnhmmcec57ziwux.ml",
-  "virginsrus.xyz"
+  "imouto.pro"
 ];
 (async () => {
   try {
