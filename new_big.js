@@ -234,22 +234,7 @@ const domain = [
   "danns.cf",
   "secencode.xyz",
   "zwwnhmmcec57ziwux.ml",
-  "virginsrus.xyz",
-  "a.safelink.fun",
-  "b.safelink.fun",
-  "c.safelink.fun",
-  "d.safelink.fun",
-  "e.safelink.fun",
-  "f.safelink.fun",
-  "g.safelink.fun",
-  "h.safelink.fun",
-  "i.safelink.fun",
-  "j.safelink.fun",
-  "k.safelink.fun",
-  "l.safelink.fun",
-  "m.safelink.fun",
-  "n.safelink.fun",
-  "o.safelink.fun"
+  "virginsrus.xyz"
 ];
 (async () => {
   try {
