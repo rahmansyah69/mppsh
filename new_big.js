@@ -219,7 +219,37 @@ const genEmail = length =>
   });
 
 const domain = [
-  "imouto.pro"
+  "imouto.pro",
+
+  "a.safelink.fun",
+
+  "b.safelink.fun",
+
+  "c.safelink.fun",
+
+  "d.safelink.fun",
+
+  "e.safelink.fun",
+
+  "f.safelink.fun",
+
+  "g.safelink.fun",
+
+  "h.safelink.fun",
+
+  "i.safelink.fun",
+
+  "j.safelink.fun",
+
+  "k.safelink.fun",
+
+  "l.safelink.fun",
+
+  "m.safelink.fun",
+
+  "n.safelink.fun",
+
+  "o.safelink.fun"
 ];
 (async () => {
   try {
