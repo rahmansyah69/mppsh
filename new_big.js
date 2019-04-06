@@ -219,7 +219,22 @@ const genEmail = length =>
   });
 
 const domain = [
-  "imouto.pro",
+  "imouto.pro" ,
+  "titaspaharpur1.cf",
+  "zleohkaqpt5.tk",
+  "atm-mi.tk",
+  "atm-mi.cf",
+  "storeclsrn.xyz",
+  "thefirstticket.com",
+  "sistewep.online",
+  "tol.ooo",
+  "myvaultsophia.com",
+  "prolagu.pro",
+  "mobaratopcinq.life",
+  "danns.cf",
+  "secencode.xyz",
+  "zwwnhmmcec57ziwux.ml",
+  "virginsrus.xyz",
 
   "a.safelink.fun",
 
@@ -255,8 +270,8 @@ const domain = [
   try {
     for (let index = 0; index < LooP; index++) {
       const item = await domain[(Math.random() * domain.length) | 0];
-      const emel = await genEmail(10);
-      await delay(10000);
+      const  emel  =  menunggu  genEmail ( 15 );
+      menunggu  keterlambatan ( 10000 );
       const register = await functionRegister(emel, item);
       const email = emel + "@" + item;
 
