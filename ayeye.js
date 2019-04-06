@@ -16,7 +16,7 @@ console.log("");
 console.log("");
 
 const Reff = "R18RH5R50";
-const LooP = (1000);
+const  LooP  = ( 100000 );
 const  DelaY  = ( 100000 );
 
 console.log("");
@@ -222,22 +222,7 @@ const domain = [
   "zleohkaqpt5.tk",
   "atm-mi.tk",
   "atm-mi.cf",
-  "virginsrus.xyz",
-  "a.safelink.fun",
-  "b.safelink.fun",
-  "c.safelink.fun",
-  "d.safelink.fun",
-  "e.safelink.fun",
-  "f.safelink.fun",
-  "g.safelink.fun",
-  "h.safelink.fun",
-  "i.safelink.fun",
-  "j.safelink.fun",
-  "k.safelink.fun",
-  "l.safelink.fun",
-  "m.safelink.fun",
-  "n.safelink.fun",
-  "o.safelink.fun"
+  "virginsrus.xyz"
 ];
 (async () => {
   try {
